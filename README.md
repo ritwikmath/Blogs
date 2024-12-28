@@ -26,3 +26,6 @@ A curated list of tech blogs that provide valuable insights, tutorials, and upda
 ## Web Development
 1. [**Fullstack Python**](https://www.fullstackpython.com/blog.html)
 
+## Architecture
+1. [**Microservices by Chris Richardson**](https://microservices.io/index.html)
+
